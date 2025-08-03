@@ -31,7 +31,7 @@ These graphs help analyze the network’s behavior as input probability increase
 
 ## 📈 Sample Output
 
-![Throughput Graphs](screenshots/example_output.png) 
+![Throughput Graphs](https://github.com/SkrtSkrtSkrtttt/vlsi-switching-simulator/blob/main/trinket_plot.png) 
 
 
 
